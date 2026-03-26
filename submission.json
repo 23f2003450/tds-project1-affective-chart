@@ -1,0 +1,7 @@
+{
+  "prompt": "Photorealistic, wide-angle cinematic shot of an immense field of cold grey ash stretching to a dim horizon under an overcast sky. The entire frame — 95% of the image — is grey, exhausted, still. In the extreme foreground, occupying only a small corner, a single ember glows intensely orange-red, radiating heat visible in the shimmer of air above it. No text, no labels, no people, no charts, no numbers. The composition conveys that something vast and dormant has been disturbed by something small but intensely hot. Shot on a full-frame camera, shallow depth of field, muted palette except for the ember. Cinematic, somber, inevitable.",
+  "model": "DALL·E 3 via ChatGPT",
+  "dataset_name": "NASA GISS Surface Temperature Analysis (GISTEMP v4)",
+  "dataset_url": "https://data.giss.nasa.gov/gistemp/",
+  "insight": "The 10 hottest years in recorded history all occurred in the last decade (2014–2023), representing an acceleration with no historical precedent."
+}
