@@ -1,0 +1,7 @@
+{
+  "prompt": "Top-down, high-altitude aerial photography. A massive expanse of Arctic sea ice. The top-left region is a solid, unbroken, thick sheet of ancient, deep-blue and blinding white glacial pack ice with deep natural crevasses. A harsh, jagged, calving fracture runs diagonally from the top-left to the bottom-right, perfectly mimicking the steep downward slope of a declining data trend line. Below and to the right of this jagged diagonal boundary, the ice has catastrophically collapsed into the terrifying, abyssal black of the open Arctic Ocean, leaving only a few scattered, dissolving fragments of slush mid-drift in the dark void. The jagged physical boundary between the ancient ice and the black water IS the exact data trend line. Somber, monumental scale, harsh freezing sunlight, photorealistic, high resolution. --no text, labels, numbers, charts, axes, polar bears, globes, digital renders, floating glowing lines, hexagons, geometric tiles",
+  "model": "Gemini 3 Flash Image",
+  "dataset_name": "NSIDC Sea Ice Index",
+  "dataset_url": "https://nsidc.org/data/seaice_index/",
+  "insight": "The accelerating decline of Arctic sea ice is not just a statistical trend, but a stark, physical collapse of our planet's ancient geography into the abyss."
+}
